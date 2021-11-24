@@ -1,0 +1,4 @@
+.coders-container {
+  display: grid;
+  grid-template-columns: 0.2fr 3fr 1.2fr;
+}

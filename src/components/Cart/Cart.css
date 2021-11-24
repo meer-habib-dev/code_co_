@@ -1,0 +1,37 @@
+.cart-container {
+  width: 300px;
+  min-height: 400px;
+  position: fixed;
+  top: 120px;
+  right: 5px;
+  background-color: #a281d5;
+  text-align: center;
+  color: white;
+  overflow: hidden;
+}
+.cart-container h1 {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+.cart-info {
+  padding: 20px 0;
+}
+.cart-info p {
+  /* display: inline-block; */
+}
+.cart-info h4 {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 5px;
+}
+ul {
+  width: 70%;
+  margin: auto;
+  padding: 20px 0;
+}
+ul li {
+  text-align: right;
+}
